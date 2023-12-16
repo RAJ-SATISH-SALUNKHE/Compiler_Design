@@ -1,0 +1,41 @@
+#include<stdio.h> is a header file
+
+int is a function declaration
+ a is an identifier
+= is an operator
+0 is a number
+; is a separator
+
+void is a function declaration
+ raj is an identifier
+( is a separator
+) is a separator
+; is a separator
+
+void is a function declaration
+ main is an identifier
+( is a separator
+) is a separator
+
+{ is a separator
+
+    a is an identifier
++= is an operator
+5 is a number
+; is a separator
+
+    a is an identifier
+= is an operator
+6 is a number
+; is a separator
+
+    a is an identifier
+= is an operator
+3.2 is a floating point number
+; is a separator
+
+    return is a keyword
+ 0 is a number
+; is a separator
+
+} is a separator
